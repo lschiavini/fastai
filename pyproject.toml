@@ -1,0 +1,15 @@
+[project]
+name = "fasta-course-1"
+version = "0.1.0"
+description = "jupyter notebooks for course 1"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ddgs>=9.8.0",
+    "notebook>=7.4.7",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.1.0",
+]
