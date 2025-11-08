@@ -1,7 +1,7 @@
 [project]
-name = "fasta-course-1"
+name = "fasta-course"
 version = "0.1.0"
-description = "jupyter notebooks for course 1"
+description = "jupyter notebooks for fast ai course"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [

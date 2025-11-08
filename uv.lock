@@ -847,7 +847,7 @@ wheels = [
 ]
 
 [[package]]
-name = "fasta-course-1"
+name = "fasta-course"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
