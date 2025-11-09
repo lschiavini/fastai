@@ -9,7 +9,9 @@ dependencies = [
     "fastai>=2.8.5",
     "fastcore>=1.8.16",
     "fastdownload>=0.0.7",
+    "gradio>=5.49.1",
     "notebook>=7.4.7",
+    "scikit-image>=0.25.2",
 ]
 
 [dependency-groups]
